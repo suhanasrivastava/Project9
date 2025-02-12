@@ -1,1 +1,1 @@
-# Project9
+This project is an AI-powered News Research Tool that leverages LangChain, OpenAI, and NewsAPI to fetch and summarize the most relevant news articles. The tool provides concise summaries of the latest news based on user queries, helping equity research analysts stay updated.
